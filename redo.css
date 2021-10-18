@@ -1,0 +1,30 @@
+.cards div{
+border: 4px green;
+border-radius: 25px;
+width: 50%;
+height: 50px;
+background: ;
+}
+
+
+.body{
+    width: 100%;
+    background-color:  darkcyan;
+    color: bisque;
+}
+.container{
+
+    width: 80%;
+    background-color: rgb(91, 146, 163);
+    margin: 0 auto;
+    display: flex;
+    flex-flow: column;
+    flex-wrap: wrap;
+    row-gap: 20px;
+
+}
+
+   
+.header{
+    background-color: rgb(127, 129, 31);
+}
